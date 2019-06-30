@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://drunbility.github.io</id>
     <title>Gridea</title>
-    <updated>2019-06-30T12:39:54.003Z</updated>
+    <updated>2019-06-30T12:41:27.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://drunbility.github.io"/>
     <link rel="self" href="https://drunbility.github.io/atom.xml"/>
@@ -16,9 +16,9 @@
         <link href="https://drunbility.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>##本站使用 <strong>Gridea</strong>  一个简便的静态博客工具驱动
-##页面托管在 github pages 上
-##域名托管在阿里云上</p>
+        <content type="html"><![CDATA[<p>本站使用 <strong>Gridea</strong>  一个简便的静态博客工具驱动</p>
+<p>页面托管在 github pages 上</p>
+<p>域名托管在阿里云上</p>
 ]]></content>
     </entry>
 </feed>
